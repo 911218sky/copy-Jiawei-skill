@@ -2,7 +2,7 @@
 
 A portable Markdown skill for **Jiawei-style first-principles seminar questioning** — single-thread depth, teach-then-verify, guess-before-lookup, and constructive closure.
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 ## What it does
 
@@ -19,7 +19,7 @@ This skill is **thinking protocol only**. It does not search literature, cite pa
 
 ## Modes
 
-`standard` is the default single-thread workflow. Use `deep` for the full arc (H2, H5, L5a/L5b, H7). Use `debrief` for post-seminar write-ups. Use `prep` to generate live lines before a talk. Request one layer family with `role:origin`, `role:premise`, `role:realism`, `role:grounding`, `role:temporal`, or `role:closure`.
+`standard` is the default single-thread workflow. Use `deep` for the full arc (H2, H5, L5a/L5b, H7). Use `debrief` for post-seminar write-ups. Use `prep` to generate live lines before a talk. All modes use **one mentor voice** — layers and heuristics are internal moves, not separate roles.
 
 Example request:
 

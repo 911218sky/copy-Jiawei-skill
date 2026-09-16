@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - 2026-09-16
+
+- Removed `role:origin`, `role:premise`, `role:realism`, `role:grounding`, `role:temporal`, and `role:closure` modes.
+- Clarified that Jiawei's skill is a **single mentor voice**; L/H codes are internal moves, not panel roles.
+
 ## 1.0.0 - 2026-09-16
 
 - Initial release as `copy-Jiawei-skill`, restructured to mirror `critical-research-reviewer` layout.
