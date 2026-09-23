@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.1.0 - 2026-09-23
+
+- Distilled live seminar Q&A patterns into the protocol (no embedded talk examples).
+- Added **L0 output-target gate** before architecture-heavy threads.
+- Added heuristics **H10** (pre-add vs post-add table read), **H11** (community benchmark bar), **H12** (figure/table anchor when live).
+- Renamed packaging surfaces from "nine heuristics" to **twelve heuristics**; workflow / checklist / self-check / YAML triggers aligned.
+- Added discussion norms: **tables over narrative** (3-step), live **re-ask/sync**, optional **reviewer transfer** limited to on-slide / presenter-stated evidence.
+- Hardened trigger graph: L1→L2 happy path, H11 edge, L5 only on temporal excuse, Cmp→H5→Close; stop rule allows on-slide reads that surface wobbles.
+- Extended context tuning, failure modes, reactive playbook, question bank, mentor checklist, and quality rubric in `reference.md`.
+
 ## 1.0.1 - 2026-09-16
 
 - Removed `role:origin`, `role:premise`, `role:realism`, `role:grounding`, `role:temporal`, and `role:closure` modes.
